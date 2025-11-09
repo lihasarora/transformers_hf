@@ -1,0 +1,10 @@
+text,label
+"this is a positive sentence",1
+"this is a negative sentence",0
+"this is a neutral sentence",2
+"this is a positive sentence",1
+"this is a negative sentence",0
+"this is a neutral sentence",2
+"this is a positive sentence",1
+"this is a negative sentence",0
+"this is a neutral sentence",2
